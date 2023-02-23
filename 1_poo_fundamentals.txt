@@ -1,0 +1,30 @@
+------Programación Orientada a Objetos------
+
+La Programación Orientada a Objetos es un paradigma de programación que se enfoca en la creación de objetos, los cuales encapsulan datos y funciones relacionadas. Los objetos interactúan entre sí para realizar tareas y resolver problemas de manera modular y reutilizable.
+
+
+La construcción de programas en el paradigma de POO consta de 3 pasos:
+- Analizar (Observar y entender)
+- Plasmar (Diagramar)
+- Programar (Aplicar en lenguaje de programación)
+
+------Que resuelve la POO------
+
+La POO resuelve los vacios que la programación orientada a objetos no puede resolver. Ventajas de la POO:
+
+- Archivos fuente con menos lineas
+- Si algo falla, el programa no se rompe por completo
+- Es fácil de mantener
+- Se reducen las anidaciones enormes
+
+------Elementos de la POO------
+- Clases
+- Propiedades
+- Metodos
+- Objetos
+
+Pilares fundamentales:
+- Encapsulamiento
+- Herencia 
+- Polimorfismo
+- Abstracción
