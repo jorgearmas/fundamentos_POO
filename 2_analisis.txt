@@ -1,0 +1,31 @@
+1. Identificar los objetos
+    Los objetos son entidades que tienen propiedades (atributos) y comportamientos (métodos). 
+    Los objetos siempre se nombran como sustantivos.
+
+    Un objeto fisico puede ser un usuario, mientras que un objeto conceptual puede ser
+    una sesión de usuario.
+
+    Ejemplo: Objeto Perro
+     - Atributos:   *nombre
+                    *color
+                    *raza
+
+    - Métodos:      *ladrar
+                    *comer
+                    *dormir
+                    *correr
+    
+    Ejemplo: Contexto de sistema de adopciones
+    - Atributos:    *id
+                    *nombre
+                    *color
+                    *raza
+                    *altura
+    
+    - Metodo:       *serAdoptado()
+
+2. Definir clases
+    Las clases son el modelo sobre el cual se define el objeto. Las clases actuan como
+    moldes que generan objetos. Al hecho de abstraer los datos de un objeto para construir
+    una clase le llamamos abstracción.
+
