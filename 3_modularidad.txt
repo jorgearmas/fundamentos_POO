@@ -1,0 +1,7 @@
+------Modularidad------
+La modularidad hace referencia a sub-dividir en partes mas pequeñas. Estas partes se llaman modulos y en su conjunto componen el programa.
+
+
+Los modulos actuan como entes independientes, esto es un beneficio cuendo se presenta un error ya que el error deshabilita un unico modulo en vez del programa completo.
+
+Las clases en escencia son modulos del un programa. Las clases deben de vivir en archivos separados para convervar la modularidad.
