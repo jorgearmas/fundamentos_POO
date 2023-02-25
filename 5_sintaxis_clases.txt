@@ -1,0 +1,21 @@
+Definir la clase persona con atributo name y metodo walk
+
+Java ->
+class Person{
+    String name = "";
+    void walk(){}
+}
+
+Python ->
+class Person:
+    name = ""
+    def walk():
+
+PHP ->
+class Person{
+    $name = "";
+    function walk(){}
+}
+
+JavaScript ->
+Person.prototype.walk = function(){}
