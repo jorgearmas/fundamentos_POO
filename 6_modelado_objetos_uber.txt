@@ -1,0 +1,63 @@
+**user**
+- id
+- name
+- document
+- email
+- password
+
+**driver**
+- id
+- nombre
+- document
+- email
+- password
+
+**route**
+- id
+- start [2]
+- end [2]
+
+**uberX**
+- id
+- license
+- driver
+- passengers
+- brand
+- model
+
+**uberPool**
+- id
+- license
+- driver
+- passengers
+- brand
+- model
+
+**uberBlack**
+- id
+- license
+- driver
+- passengers
+- typeCarAccepted[]
+- seatMaterial[]
+
+**uberVan**
+- id
+- license
+- driver
+- passengers
+- typeCarAccepted[]
+- seatMaterial[]
+
+**card**
+- id
+- number
+- cvv
+- date
+
+**paypal**
+- id
+- email
+
+**cash**
+- id
