@@ -1,6 +1,7 @@
 public class Car {
     Integer id;
     String license;
+    /*Account 'driver' hace referencia al atributo de tipo Account. 'driver' debe llenar los requisitos minismo del superconstructor de Account (name y document)*/
     Account driver;
     Integer passenger;
 
