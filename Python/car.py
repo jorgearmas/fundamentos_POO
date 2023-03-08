@@ -3,6 +3,7 @@ from account import Account
 class Car:
     id = int
     license = str
+    #driver se declara como tipo Account
     driver = Account("","")
     passenger = int
 
