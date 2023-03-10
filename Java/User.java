@@ -5,6 +5,6 @@ public class User extends Account {
     }
 
     public void printDataUser(){
-        System.out.println("Name-> "+name+"\nDocument-> "+document+"\nEmail-> "+email+"\nPassword-> "+password);
+        System.out.println("\nName-> "+name+"\nDocument-> "+document+"\nEmail-> "+email+"\nPassword-> "+password);
     }
 }
