@@ -1,8 +1,8 @@
 public class Car {
-    Integer id;
-    String license;
+    private Integer id;
+    private String license;
     /*Account 'driver' hace referencia al atributo de tipo Account. 'driver' debe llenar los requisitos minismo del superconstructor de Account (name y document)*/
-    Account driver;
+    private Account driver;
     /*Encapsulamiento del atributo passenger*/
     private Integer passenger;
 
@@ -33,4 +33,29 @@ public class Car {
             System.out.println("Necesitas asignar cuatro pasajeros");
         }
     }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getLicense() {
+        return license;
+    }
+
+    public void setLicense(String license) {
+        this.license = license;
+    }
+
+    public Account getDriver() {
+        return driver;
+    }
+
+    public void setDriver(Account driver) {
+        this.driver = driver;
+    }
+ 
 }
